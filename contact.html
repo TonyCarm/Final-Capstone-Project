@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="contact.css">
+    <title>Carm's Sports</title>
+    <h1>Carm's Sports</h1>
+
+    <nav class="Home Navigation"><ul>            <!-- Navigation Bar -->
+      <li><a href="Carm's Sports.html">Home</a></li>
+      <li><a href="/baseballsites/baseball.html">Baseball</a></li>
+      <li><a href="fantasy.html">Fantasy Sports</a></li>
+    </ul>
+    </nav>
+  </head>
+  <body>    <!--contact form-->
+    <fieldset>
+    <form id="contact-form" method="POST" action="contact.php">
+        <div class="form-row form-error" style="display:none;"></div>
+        <div class="form-row">
+          <label for="contact-form-name">Name:</label>
+          <input id="contact-form-name" class="form-input" type="text" name="name" required>
+        </div>
+        <div class="form-row">
+          <label for="contact-form-email">Email:</label>
+          <input id="contact-form-email" class="form-input" type="email" name="email" required>
+        </div>
+        <div class="form-row">
+          <label for="contact-form-phone">Phone:</label>
+          <input id="contact-form-phone" class="form-input" type="tel" name="phone">
+        </div>
+        <div class="form-row">
+          <label for="contact-form-message">Message:</label>
+          <textarea id="contact-form-message" class="form-input" name="message" required></textarea>
+        </div>
+        <button type="submit">Submit</button>
+      </form>
+    </fieldset>
+
+  </body>
+</html>

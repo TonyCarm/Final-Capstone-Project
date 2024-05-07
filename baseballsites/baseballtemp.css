@@ -1,0 +1,222 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+  height: 100%;
+  }
+body.yankees{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/yanksstadium.jpg");/*https://muralsyourway.vtexassets.com/arquivos/ids/239975/New-Yankee-Stadium-Mural-Wallpaper.jpg?v=638164438178000000*/
+}
+
+body.redsox{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/fen.jpg");/*https://www.timeout.com/boston/things-to-do/fenway-park*/
+}
+
+body.bluejays{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/rodgers.jpg");/*https://www.flickr.com/photos/stephanneven/32912831278*/
+}
+
+body.orioles{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/camden.jpg");/*https://baseballinstadiums.com/american-league/camden-yards/*/
+}
+
+body.rays{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/trop.jpg");/*https://www.ballparksofbaseball.com/ballparks/tropicana-field/*/
+}
+
+body.braves{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/braves.jpg");/*https://www.architectmagazine.com/design/atlanta-braves-debut-populous-designed-stadium-for-opening-weekend_o*/
+}
+
+body.phils{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/citizensbank.jpg");/*https://www.visitphilly.com/things-to-do/attractions/citizens-bank-park/*/
+}
+
+body.marlins{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/loandepotpark.jpg");/*https://www.golfdigest.com/story/miami-marlins-loandepot-park-renaming-mlb-baseball*/
+}
+
+body.mets{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/citi.jpg");/*https://www.ballparksofbaseball.com/ballparks/citi-field/*/
+}
+
+body.nationals{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/nats.jpg");/*https://www.ballparksofbaseball.com/ballparks/nationals-park/*/
+}
+
+body.whitesox{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/whitesoxStadium.jpg");/*https://www.mlb.com/whitesox/ballpark/information*/
+}
+
+body.guardians{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/guardians.jpg");/*https://www.ballparksofbaseball.com/ballparks/progressive-field/*/
+}
+
+body.tigers{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/tigers.jpg");/*https://www.ballparksofbaseball.com/ballparks/comerica-park/*/
+}
+
+body.royals{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/royals.jpg");/*https://www.ballparksofbaseball.com/ballparks/kauffman-stadium/*/
+}
+
+body.twins{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/twins.jpg");/*https://www.ballparksofbaseball.com/ballparks/target-field/*/
+}
+
+body.cubs{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/cubs.jpg");/*https://bleacherreport.com/articles/1715413-pros-and-cons-of-chicago-cubs-controversial-500-million-stadium-facelift*/
+}
+
+body.reds{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/reds.jpg");/*https://www.ballparksofbaseball.com/ballparks/great-american-ball-park/*/
+}
+
+body.brewers{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/brewers.jpg");/*https://www.ballparksofbaseball.com/ballparks/american-family-field/*/
+}
+
+body.pirates{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/pirates.jpg");/*https://www.ballparksofbaseball.com/ballparks/pnc-park/*/
+}
+
+body.cardinals{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/cardinals.jpg");/*https://www.ballparksofbaseball.com/ballparks/busch-stadium/*/
+}
+
+body.astros{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/astros.jpg");/*https://www.visithoustontexas.com/things-to-do/professional-sports-teams/astros-experience/*/
+}
+
+body.angels{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/angels.jpg");/*https://www.si.com/mlb/2014/09/12/ballpark-quirks-los-angeles-angels-angel-stadium-anaheim*/
+}
+
+body.athletics{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/athletics.jpg");/*https://www.nytimes.com/2023/04/20/sports/baseball/oakland-athletics-stadium-las-vegas.html*/
+}
+
+body.mariners{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/mariners.jpg");/*https://www.ballparksofbaseball.com/ballparks/t-mobile-park/*/
+}
+
+body.rangers{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/rangers.jpg");/*https://www.301fw.afrc.af.mil/News/Article-Display/Article/2564530/spads-open-texas-rangers-season-globe-life-field/*/
+}
+
+body.diamondbacks{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/arizona.jpg");/*https://www.mlb.com/dbacks/ballpark/information*/
+}
+
+body.rockies{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/rockies.jpg");/*https://www.denver.org/listing/coors-field-home-of-the-colorado-rockies/4340/*/
+}
+
+body.dodgers{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/dodgers.jpg");/*https://www.mlb.com/dodgers/ballpark/information*/
+}
+
+body.giants{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/giants.jpg");/*https://www.sftravel.com/article/your-guide-to-san-francisco-giants-baseball-oracle-park*/
+}
+
+body.padres{
+  background-image: linear-gradient(to bottom, rgba(0,0,0,0.5) 0%,rgba(0,0,0,0.5) 100%),url("images/stadiums/padres.jpg");/*https://www.mlb.com/padres/ballpark*/
+}
+
+
+
+
+
+
+
+
+  p, h1, h2, h3{
+    text-align: center;
+    padding: 2%;
+  }
+  
+  button.button{
+    border: none;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 5px;
+    background-color: white;
+    color: white;
+  }
+  
+  .button:hover {
+    background-color: gray;
+    text-decoration: none;
+  }
+  a:link { 
+    text-decoration: none; 
+    color:black;
+  } 
+
+  a:visited {
+    text-decoration: none;
+    color: #222831;
+  }
+ 
+  a:hover { 
+    text-decoration: none; 
+    color: #DBC078;
+  } 
+  a:active { 
+    text-decoration: none; 
+    color: black;
+  }
+
+
+section {
+  width:50%;
+  border-radius: 5px;
+  margin-top: 1%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: white;
+ }
+
+ ul{
+  list-style-type: none;
+ }
+ 
+ .logo{
+  float: left;
+ }
+
+ .headshot {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+  }
+
+table {
+  text-align: left;
+  table-layout: fixed;
+  margin-right: auto;
+}
+
+td.list {
+  margin:auto;
+}
+
+td{
+  width:35%;
+}
+
+footer{
+  margin: auto;
+  padding: 5px;
+  text-align: center;
+}
